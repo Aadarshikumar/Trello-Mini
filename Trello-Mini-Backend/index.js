@@ -1,1 +1,0 @@
-console.log("Trello Mini Backend is running...");
